@@ -1,0 +1,3 @@
+[submodule "html-website-template"]
+	path = html-website-template
+	url = https://github.com/fulldecent/html-website-template.git
